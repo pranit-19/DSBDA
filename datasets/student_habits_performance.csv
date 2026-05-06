@@ -1,0 +1,21 @@
+student_id,age,gender,attendance,marks
+1,20,Male,85,78
+2,21,Female,90,82
+3,19,M,75,70
+4,twenty,Female,88,80
+5,22,,92,85
+6,20,Male,101,88
+7,18,Female,65,abc
+8,23,Male,70,72
+9,21,Female,,76
+10,20,Male,80,79
+11,19,Female,55,60
+12,17,Male,45,50
+13,22,Female,110,91
+14,20,F,85,78
+15,,Male,60,65
+16,21,Female,75, 
+17,19,Male,30,40
+18,twenty two,Female,95,89
+19,20,Male,85,78
+20,21,Female,88,82
